@@ -1,4 +1,0 @@
-Git and GitHub
-
-Git can be though of as a timeline management utility, which stores snapshots of our repository at different points of time, depending upon we committing to it, so that, we can go back and see the changes we made or if we need to go back to the previous code.
-And GitHub is just a social media platform for sharing and looking at the git repository for collaboration with other people or for showing to public, that's it.
