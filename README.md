@@ -1,4 +1,4 @@
-#Git
+# Git
 Git can be thought of as a timeline management utility, which stores snapshots of our repository at different points of time, depending upon we committing to it, so that, we can go back and see the changes we made or if we need to go back to the previous code.
 
 ### Initialize git
@@ -34,4 +34,3 @@ git checkout branch_name - now the branch is changed or shifted to branch_name f
 First fork it then clone it command - git clone repo_link_from your forked version
 Initialize git in that repo, then always whatever you want to push do it by creating a different branch, Ok
 
-## Error 
